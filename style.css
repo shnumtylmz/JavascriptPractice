@@ -1,0 +1,29 @@
+* {
+    margin: 10px;
+    padding: 15px;
+}
+
+body {
+    background-color: grey;
+}
+
+#div1 {
+    text-align: center;
+}
+
+.firstTitle {
+    color: orange;
+}
+
+#userName {
+    color: orange;
+}
+
+#displayTime {
+    color: orange;
+}
+
+.paragraph {
+    font-size: larger;
+    color: orange;
+}
